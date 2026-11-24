@@ -1,0 +1,6 @@
+{
+  "appId": "com.cubesolverstar.app",
+  "appName": "Cube Solver\u2605",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
